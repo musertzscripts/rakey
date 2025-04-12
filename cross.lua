@@ -15,4 +15,3 @@ crosshair.Position = UDim2.new(0.5, -20, 0.5, 70) -- ← aligned to black dot
 crosshair.BackgroundTransparency = 1
 crosshair.Image = "rbxassetid://" .. crosshairId
 crosshair.Parent = screenGui
-2106032398
